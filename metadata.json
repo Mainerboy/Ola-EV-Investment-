@@ -1,0 +1,7 @@
+{
+  "name": "EV Charge Invest",
+  "description": "A secure EV charging station investment platform with real-time earnings and referral rewards.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
